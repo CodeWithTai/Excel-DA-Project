@@ -78,7 +78,6 @@ The named selections `Country`, `Workplace`, `Role1`, `Role2`, and `Work_From_Ho
 
 ## Filtered Median Salary
 
-![Filtered median salary formula](assets/filtered-median-formula.png)
 
 ```excel
 =MEDIAN(
