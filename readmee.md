@@ -1,3 +1,4 @@
+<img width="800" height="450" alt="202609131224-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/8ec193d2-4969-4d88-98b6-e33c362253ed" />
 # Data Career Explorer
 
 ## Overview
@@ -22,8 +23,8 @@ An 9-second walkthrough of the dashboard: switching the country, schedule type, 
   playable video automatically. Paste that link in place of this comment.
 -->
 
+<img width="800" height="450" alt="202609131224-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/4976b3ad-77ee-4a1e-9c0b-d4b8012d77a0" />
 
-![Uploading 202609131224-ezgif.com-video-to-gif-converter.gif…]()
 
 
 
