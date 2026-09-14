@@ -138,7 +138,6 @@ The resulting count represents records that satisfy all active filters and conta
 
 ## Dynamic Two-Role Chart Sources
 
-![Two-role chart source tables](assets/two-role-chart-sources.png)
 
 The salary and demand comparison charts use compact helper tables linked to `Role1` and `Role2`. This avoids hard-coded category names.
 
@@ -156,7 +155,6 @@ These sources are intentionally separate from the all-role ranking source, allow
 
 ### Salary Premium
 
-![Salary premium formula](assets/salary-premium-formula.png)
 
 ```excel
 =(MAX(median_1;median_2)-MIN(median_1;median_2))/MIN(median_1;median_2)
@@ -180,7 +178,6 @@ Demand Premium applies the same logic to the two filtered job counts.
 
 ### Highest-Ranked Selected Role
 
-![Highest-ranked role formula](assets/highest-ranked-role-formula.png)
 
 ```excel
 =IF(
@@ -192,7 +189,6 @@ Demand Premium applies the same logic to the two filtered job counts.
 
 The role with the smaller position number in the salary-ranked list is returned as the better-ranked selected role.
 
-![Dynamic rank label formula](assets/dynamic-rank-label-formula.png)
 
 ```excel
 ="#"&MIN(
