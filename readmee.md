@@ -8,7 +8,10 @@ The **Data Career Explorer** is an interactive Excel dashboard for comparing two
 
 ## Interactive Dashboard Demo
 
-An 18-second walkthrough of the dashboard: switching the country, schedule type, both compared roles, and work-from-home filter, and watching the KPI cards, comparison charts, and ranking chart update together.
+An 9-second walkthrough of the dashboard: switching the country, schedule type, both compared roles, and work-from-home filter, and watching the KPI cards, comparison charts, and ranking chart update together.
+
+
+
 
 <!--
   Video file: dashboard-demo.mp4 (1280x720, ~18s)
@@ -18,6 +21,10 @@ An 18-second walkthrough of the dashboard: switching the country, schedule type,
   https://github.com/user-attachments/assets/...) that renders as a
   playable video automatically. Paste that link in place of this comment.
 -->
+
+
+https://github.com/user-attachments/assets/5d9d8daf-8583-4164-b082-cb04505f65b9
+
 
 ## Dashboard Preview
 
