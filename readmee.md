@@ -1,5 +1,4 @@
-<img width="800" height="450" alt="202609131224-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/8ec193d2-4969-4d88-98b6-e33c362253ed" />
-# Data Career Explorer
+
 
 ## Overview
 
