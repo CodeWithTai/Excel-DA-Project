@@ -23,7 +23,8 @@ An 9-second walkthrough of the dashboard: switching the country, schedule type, 
 -->
 
 
-https://github.com/user-attachments/assets/5d9d8daf-8583-4164-b082-cb04505f65b9
+![Uploading 202609131224-ezgif.com-video-to-gif-converter.gif…]()
+
 
 
 ## Dashboard Preview
