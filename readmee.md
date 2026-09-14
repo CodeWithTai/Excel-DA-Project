@@ -120,7 +120,6 @@ ISNUMBER(SEARCH(Workplace;jobs[job_schedule_type]))
 
 ## Filtered Job Demand
 
-![Filtered job count formula](assets/filtered-job-count-formula.png)
 
 ```excel
 =COUNT(
